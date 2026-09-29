@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "voice-file-assistant"
+version = "0.2.0"
+description = "An intelligent voice-driven file management system for motor-impaired users using context-aware semantic retrieval."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "sounddevice>=0.4.6",
+    "pynput>=1.7.6",
+    "numpy>=1.24,<2.0",
+    "openai-whisper>=20231117",
+    "spacy>=3.7",
+    "dateparser>=1.2",
+    "sentence-transformers>=2.5",
+    "watchdog>=3.0",
+    "send2trash>=1.8",
+    "pyttsx3>=2.90",
+]
+
+[project.scripts]
+voice-file-assistant = "voice_assistant.main:main"
+
+[tool.setuptools.packages.find]
+include = ["voice_assistant*"]

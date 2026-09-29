@@ -1,0 +1,18 @@
+               precision    recall  f1-score   support
+
+  CREATE_FILE       1.00      1.00      1.00        18
+CREATE_FOLDER       1.00      1.00      1.00        18
+       DELETE       1.00      1.00      1.00        18
+    DUPLICATE       1.00      1.00      1.00        18
+       RENAME       1.00      1.00      1.00        18
+         MOVE       1.00      1.00      1.00        18
+         COPY       1.00      1.00      1.00        18
+         OPEN       1.00      1.00      1.00        18
+     NAVIGATE       0.95      1.00      0.97        18
+         LIST       1.00      1.00      1.00        18
+       SEARCH       1.00      1.00      1.00        18
+      UNKNOWN       1.00      0.94      0.97        18
+
+     accuracy                           1.00       216
+    macro avg       1.00      1.00      1.00       216
+ weighted avg       1.00      1.00      1.00       216

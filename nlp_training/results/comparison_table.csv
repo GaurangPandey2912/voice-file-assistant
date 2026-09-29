@@ -1,0 +1,3 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted
+Regex Parser (baseline),0.9352,0.9498,0.9352,0.9354,0.9498,0.9352,0.9354
+TF-IDF LogisticRegression,0.9954,0.9956,0.9954,0.9954,0.9956,0.9954,0.9954

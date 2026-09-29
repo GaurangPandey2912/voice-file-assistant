@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.vscode/
+.idea/
+
+# runtime data — config, logs, and the file index are user-machine-specific
+*.session_*.log

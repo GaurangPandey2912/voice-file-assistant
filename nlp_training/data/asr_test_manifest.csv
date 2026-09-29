@@ -1,0 +1,73 @@
+audio_path,reference_text,intent_label
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0000.wav,search for the config.json I made this morning,SEARCH
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0001.wav,create a file called timetable.xlsx,CREATE_FILE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0002.wav,find notes.txt,SEARCH
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0003.wav,start data.csv,OPEN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0004.wav,can you make a copy of meeting minutes,DUPLICATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0005.wav,copy the file timetable.xlsx to Photos,COPY
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0006.wav,create a copy of lecture notes,DUPLICATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0007.wav,copy lecture notes to Shared,COPY
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0008.wav,copy lecture notes to documents,COPY
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0009.wav,move vacation photos to home,MOVE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0010.wav,create a copy of timetable.xlsx,DUPLICATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0011.wav,rename contract.pdf to exam timetable.xlsx,RENAME
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0012.wav,switch to documents,NAVIGATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0013.wav,please delete the file resume.docx,DELETE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0014.wav,launch project proposal,OPEN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0015.wav,create a copy of internship report,DUPLICATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0016.wav,make a copy of assignment.docx,DUPLICATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0017.wav,open the file budget.xlsx,OPEN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0018.wav,who won the match yesterday,UNKNOWN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0019.wav,copy tax documents to Drafts,COPY
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0020.wav,please go to documents,NAVIGATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0021.wav,can you move final draft to documents,MOVE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0022.wav,create a folder called Projects,CREATE_FOLDER
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0023.wav,get rid of song.mp3,DELETE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0024.wav,how do I fix my wifi,UNKNOWN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0025.wav,open the Networking folder,NAVIGATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0026.wav,please copy research paper to desktop,COPY
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0027.wav,any tips to learn guitar,UNKNOWN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0028.wav,copy code review notes to documents,COPY
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0029.wav,create file video.mp4,CREATE_FILE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0030.wav,open meeting minutes,OPEN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0031.wav,look for budget.xlsx,SEARCH
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0032.wav,remove budget.xlsx,DELETE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0033.wav,relocate video.mp4 to Semester 6,MOVE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0034.wav,move the file data.csv to College Work,MOVE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0035.wav,rename the file song.mp3 to demo video.mp4,RENAME
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0036.wav,create folder Media on desktop,CREATE_FOLDER
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0037.wav,look for my meeting minutes,SEARCH
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0038.wav,please create project proposal,CREATE_FILE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0039.wav,please create essay.docx,CREATE_FILE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0040.wav,go to the Old Files folder please,NAVIGATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0041.wav,add a file report.pdf,CREATE_FILE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0042.wav,list everything in this folder,LIST
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0043.wav,move the file song.mp3 to Assignments,MOVE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0044.wav,how are you,UNKNOWN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0045.wav,can you create a file called tax documents,CREATE_FILE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0046.wav,show python files in Personal,LIST
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0047.wav,rename timetable.xlsx to final thesis.docx,RENAME
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0048.wav,remove notes.txt,DELETE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0049.wav,new folder Invoices,CREATE_FOLDER
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0050.wav,change the name of meeting minutes to revised notes,RENAME
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0051.wav,new folder Personal,CREATE_FOLDER
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0052.wav,rename the file grocery list to final essay.docx,RENAME
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0053.wav,can you move data.csv to documents,MOVE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0054.wav,what files are here,LIST
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0055.wav,look for screenshot.png,SEARCH
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0056.wav,remove screenshot.png,DELETE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0057.wav,find screenshot.png,SEARCH
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0058.wav,what do you think about photography,UNKNOWN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0059.wav,change directory to home,NAVIGATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0060.wav,create a copy of invoice.pdf,DUPLICATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0061.wav,can you open final draft,OPEN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0062.wav,rename the file backup.zip to final essay.docx,RENAME
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0063.wav,create folder Archive on downloads,CREATE_FOLDER
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0064.wav,what is philosophy,UNKNOWN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0065.wav,can you create a folder named Networking,CREATE_FOLDER
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0066.wav,list every document file here,LIST
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0067.wav,go up,NAVIGATE
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0068.wav,can you list the pdf files,LIST
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0069.wav,can you open travel itinerary,OPEN
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0070.wav,list all the files in this directory,LIST
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0071.wav,remove the file resume.docx for me,DELETE

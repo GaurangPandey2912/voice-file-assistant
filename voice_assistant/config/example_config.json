@@ -1,0 +1,14 @@
+{
+  "hotkey": "<ctrl>+<rc>",
+  "indexed_folders": [
+    "/Users/username/Desktop",
+    "/Users/username/Documents",
+    "/Users/username/Downloads"
+  ],
+  "whisper_model": "base",
+  "speech_timeout_seconds": 10.0,
+  "confirm_destructive": true,
+  "max_search_results": 10,
+  "log_dir": "/Users/username/.voice_assistant/logs",
+  "index_dir": "/Users/username/.voice_assistant/index"
+}

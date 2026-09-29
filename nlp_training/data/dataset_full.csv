@@ -1,0 +1,1441 @@
+text,label
+list all files in Semester 6,LIST
+move backup.zip to home,MOVE
+move notes.txt to Shared,MOVE
+change the name of meeting minutes to sensor data.csv,RENAME
+remove the file data.csv for me,DELETE
+can you find code review notes,SEARCH
+create folder Backup on home,CREATE_FOLDER
+open networking notes,OPEN
+search for the meeting minutes I made yesterday,SEARCH
+navigate to the Old Files folder,NAVIGATE
+navigate into the Drafts directory,NAVIGATE
+shift report.pdf into Drafts,MOVE
+please copy assignment.docx to documents,COPY
+please rename meeting minutes to final essay.docx,RENAME
+make a new file named thesis draft,CREATE_FILE
+rename meeting minutes to bug screenshot.png,RENAME
+what do you think about cricket,UNKNOWN
+tell me a joke,UNKNOWN
+tell me the news,UNKNOWN
+add a file contract.pdf,CREATE_FILE
+what is history,UNKNOWN
+go back,NAVIGATE
+please create config.json,CREATE_FILE
+open the file meeting minutes,OPEN
+find resume.docx from today,SEARCH
+list all files in Drafts,LIST
+go to Old Files,NAVIGATE
+move research paper to downloads,MOVE
+remove the file song.mp3 for me,DELETE
+can you make a copy of travel itinerary,DUPLICATE
+start backup.zip,OPEN
+list all files,LIST
+create a file called research paper,CREATE_FILE
+delete final draft,DELETE
+who won the match yesterday,UNKNOWN
+find invoice.pdf from this morning,SEARCH
+please copy travel itinerary to documents,COPY
+create a copy of final draft,DUPLICATE
+please copy contract.pdf to downloads,COPY
+please make a folder Photos,CREATE_FOLDER
+any tips to study for exams,UNKNOWN
+please rename essay.docx to exam timetable.xlsx,RENAME
+find vacation photos from last Monday,SEARCH
+find research paper from last year,SEARCH
+remove syllabus.pdf,DELETE
+can you find config.json,SEARCH
+get rid of video.mp4,DELETE
+rename the file budget.xlsx to exam timetable.xlsx,RENAME
+rename song.mp3 to updated resume.docx,RENAME
+rename the file networking notes to favorite song.mp3,RENAME
+navigate into the Networking directory,NAVIGATE
+move research paper to home,MOVE
+can you move data.csv to downloads,MOVE
+please copy photo.jpg to documents,COPY
+get rid of code review notes,DELETE
+locate notes.txt,SEARCH
+make a copy of travel itinerary,DUPLICATE
+please make a folder Old Files,CREATE_FOLDER
+how do i start a business,UNKNOWN
+erase report.pdf,DELETE
+go to downloads,NAVIGATE
+can you create a file called syllabus.pdf,CREATE_FILE
+launch contract.pdf,OPEN
+can you list the python files,LIST
+copy networking notes to Shared,COPY
+make a file project proposal on documents,CREATE_FILE
+copy contract.pdf to Personal,COPY
+show me what's in Work,LIST
+move internship report to College Work,MOVE
+what folders are here,LIST
+erase assignment.docx,DELETE
+please delete the file tax documents,DELETE
+duplicate the file data.csv,DUPLICATE
+open the file thesis draft,OPEN
+make a copy of vacation photos,DUPLICATE
+search for presentation.pptx,SEARCH
+show me the pdf files,LIST
+can you open config.json,OPEN
+please copy internship report to desktop,COPY
+can you delete invoice.pdf,DELETE
+create backup.zip in Old Files,CREATE_FILE
+copy final draft to Semester 6,COPY
+please delete the file notes.txt,DELETE
+move final draft to Drafts,MOVE
+can you help me learn python,UNKNOWN
+move invoice.pdf to documents,MOVE
+list all pdf files in Research,LIST
+show python files in Semester 6,LIST
+duplicate syllabus.pdf,DUPLICATE
+create a copy of timetable.xlsx,DUPLICATE
+new folder Backup,CREATE_FOLDER
+shift photo.jpg into Invoices,MOVE
+go to desktop,NAVIGATE
+copy essay.docx to College Work,COPY
+can you open lecture notes,OPEN
+show me what's in Drafts,LIST
+open the file lecture notes,OPEN
+show me the text files,LIST
+erase photo.jpg,DELETE
+open essay.docx,OPEN
+create a folder called Drafts,CREATE_FOLDER
+can you open research paper,OPEN
+what is economics,UNKNOWN
+copy the file song.mp3 to Personal,COPY
+create folder Photos on documents,CREATE_FOLDER
+please delete the file budget.xlsx,DELETE
+show image files,LIST
+start screenshot.png,OPEN
+copy meeting minutes to Projects,COPY
+show all python documents,LIST
+create folder Backup on documents,CREATE_FOLDER
+show document files,LIST
+erase travel itinerary,DELETE
+clone thesis draft,DUPLICATE
+take me back to documents,NAVIGATE
+copy the file video.mp4 to Semester 6,COPY
+rename invoice.pdf to app config.json,RENAME
+look for photo.jpg,SEARCH
+clone grocery list,DUPLICATE
+please create project proposal,CREATE_FILE
+remove research paper,DELETE
+please open timetable.xlsx,OPEN
+clone travel itinerary,DUPLICATE
+rename contract.pdf to beach photos,RENAME
+move config.json to Archive,MOVE
+what is astronomy,UNKNOWN
+open research paper,OPEN
+list markdown files,LIST
+go to College Work,NAVIGATE
+copy the file final draft to Shared,COPY
+open the Shared folder,NAVIGATE
+rename grocery list to quarterly budget.xlsx,RENAME
+create vacation photos in Backup,CREATE_FILE
+copy photo.jpg to Networking,COPY
+duplicate the file tax documents,DUPLICATE
+please copy tax documents to desktop,COPY
+duplicate notes.txt,DUPLICATE
+create file networking notes,CREATE_FILE
+show me what's in Projects,LIST
+can you open notes.txt,OPEN
+navigate to the Backup folder,NAVIGATE
+tell me about the stock market,UNKNOWN
+can you move report.pdf to documents,MOVE
+open the file song.mp3,OPEN
+copy data.csv to downloads,COPY
+copy notes.txt to Work,COPY
+change the name of screenshot.png to old backup.zip,RENAME
+change the name of travel itinerary to holiday photo.jpg,RENAME
+delete the folder College Work,DELETE
+please create code review notes,CREATE_FILE
+find report.pdf from today,SEARCH
+can you move contract.pdf to desktop,MOVE
+copy video.mp4 to Media,COPY
+can you move invoice.pdf to home,MOVE
+please create syllabus.pdf,CREATE_FILE
+please copy backup.zip to home,COPY
+look for my config.json,SEARCH
+clone budget.xlsx,DUPLICATE
+create a copy of networking notes,DUPLICATE
+what is the stock market,UNKNOWN
+open meeting minutes,OPEN
+go to the Semester 6 folder please,NAVIGATE
+shift syllabus.pdf into Drafts,MOVE
+show python files in Work,LIST
+go to the Research folder please,NAVIGATE
+create a file called lecture notes,CREATE_FILE
+any tips to fix a flat tire,UNKNOWN
+new folder Personal,CREATE_FOLDER
+can you find resume.docx,SEARCH
+rename budget.xlsx to sales presentation.pptx,RENAME
+search for the budget.xlsx I made this morning,SEARCH
+add a file photo.jpg,CREATE_FILE
+please create essay.docx,CREATE_FILE
+can you help me learn guitar,UNKNOWN
+open the Personal folder,NAVIGATE
+can you find project proposal,SEARCH
+move grocery list to documents,MOVE
+rename the file grocery list to class notes.txt,RENAME
+what is fashion,UNKNOWN
+how far is the moon,UNKNOWN
+delete the folder Archive,DELETE
+can you open travel itinerary,OPEN
+make a copy of presentation.pptx,DUPLICATE
+get rid of data.csv,DELETE
+can you delete syllabus.pdf,DELETE
+change the name of internship report to new proposal,RENAME
+duplicate the file code review notes,DUPLICATE
+get rid of notes.txt,DELETE
+start internship report,OPEN
+show markdown files in Drafts,LIST
+duplicate the file song.mp3,DUPLICATE
+create folder Projects on home,CREATE_FOLDER
+make a copy of lecture notes,DUPLICATE
+show me home,NAVIGATE
+create folder Invoices on documents,CREATE_FOLDER
+please copy grocery list to documents,COPY
+rename the file tax documents to holiday photo.jpg,RENAME
+open the Old Files folder,NAVIGATE
+what's two plus two,UNKNOWN
+please copy screenshot.png to documents,COPY
+open the file backup.zip,OPEN
+change the name of travel itinerary to app config.json,RENAME
+please make a folder Semester 6,CREATE_FOLDER
+list all pdf files in Backup,LIST
+delete travel itinerary,DELETE
+rename contract.pdf to demo video.mp4,RENAME
+list everything in this folder,LIST
+remove essay.docx,DELETE
+move the file research paper to College Work,MOVE
+remove song.mp3,DELETE
+can you create a file called lecture notes,CREATE_FILE
+launch vacation photos,OPEN
+please create timetable.xlsx,CREATE_FILE
+search for the report.pdf I made two days ago,SEARCH
+can you create a folder named Old Files,CREATE_FOLDER
+open the Assignments folder,NAVIGATE
+please make a folder Projects,CREATE_FOLDER
+move essay.docx to Semester 6,MOVE
+locate project proposal,SEARCH
+can you list the document files,LIST
+can you create a file called networking notes,CREATE_FILE
+please rename invoice.pdf to final thesis.docx,RENAME
+start grocery list,OPEN
+launch project proposal,OPEN
+clone config.json,DUPLICATE
+locate invoice.pdf,SEARCH
+delete the folder Invoices,DELETE
+can you help me learn to swim,UNKNOWN
+can you help me meditate,UNKNOWN
+open the file vacation photos,OPEN
+shift travel itinerary into Research,MOVE
+can you help me bake a cake,UNKNOWN
+play some music,UNKNOWN
+please copy report.pdf to desktop,COPY
+create a folder called Shared,CREATE_FOLDER
+make a file report.pdf on home,CREATE_FILE
+go to Drafts,NAVIGATE
+can you help me make coffee,UNKNOWN
+show me what's in Backup,LIST
+copy networking notes to downloads,COPY
+search for meeting minutes,SEARCH
+create a copy of photo.jpg,DUPLICATE
+show markdown files in Shared,LIST
+go to the Networking folder please,NAVIGATE
+new file timetable.xlsx on documents,CREATE_FILE
+can you create a folder named Drafts,CREATE_FOLDER
+create a copy of travel itinerary,DUPLICATE
+clone project proposal,DUPLICATE
+change the name of photo.jpg to team minutes,RENAME
+shift lecture notes into Media,MOVE
+copy the file code review notes to Semester 6,COPY
+please copy grocery list to home,COPY
+can you delete photo.jpg,DELETE
+copy code review notes to home,COPY
+look for video.mp4,SEARCH
+please make a folder Shared,CREATE_FOLDER
+list items,LIST
+create file notes.txt,CREATE_FILE
+please open invoice.pdf,OPEN
+can you create a folder named College Work,CREATE_FOLDER
+what do you think about politics,UNKNOWN
+go into Old Files,NAVIGATE
+turn off the lights,UNKNOWN
+move essay.docx to Drafts,MOVE
+relocate notes.txt to Work,MOVE
+what is art,UNKNOWN
+can you open timetable.xlsx,OPEN
+trash networking notes,DELETE
+sing me a song,UNKNOWN
+copy data.csv to College Work,COPY
+move tax documents to Archive,MOVE
+can you go to Old Files,NAVIGATE
+change the name of contract.pdf to quarterly budget.xlsx,RENAME
+rename screenshot.png to class notes.txt,RENAME
+duplicate the file project proposal,DUPLICATE
+look for my vacation photos,SEARCH
+copy notes.txt to Invoices,COPY
+please rename video.mp4 to holiday photo.jpg,RENAME
+copy backup.zip to downloads,COPY
+please open vacation photos,OPEN
+please rename notes.txt to 2025 tax forms,RENAME
+can you make a copy of data.csv,DUPLICATE
+new file networking notes on documents,CREATE_FILE
+list all image files in Backup,LIST
+what is health,UNKNOWN
+navigate into the Semester 6 directory,NAVIGATE
+copy the file code review notes to College Work,COPY
+add a directory called Drafts,CREATE_FOLDER
+new folder Photos,CREATE_FOLDER
+open the file syllabus.pdf,OPEN
+copy the file thesis draft to Shared,COPY
+please rename photo.jpg to 2025 tax forms,RENAME
+can you find assignment.docx,SEARCH
+how do i meditate,UNKNOWN
+trash code review notes,DELETE
+can you create a folder named Archive,CREATE_FOLDER
+show me the python files,LIST
+can you open grocery list,OPEN
+duplicate resume.docx,DUPLICATE
+can you open thesis draft,OPEN
+copy vacation photos to documents,COPY
+can you open project proposal,OPEN
+copy the file syllabus.pdf to Photos,COPY
+change the name of video.mp4 to team minutes,RENAME
+make a new folder named Photos,CREATE_FOLDER
+create a folder called Invoices,CREATE_FOLDER
+delete the folder Shared,DELETE
+go into Media,NAVIGATE
+locate travel itinerary,SEARCH
+search for screenshot.png,SEARCH
+locate vacation photos,SEARCH
+open budget.xlsx,OPEN
+please rename research paper to exam timetable.xlsx,RENAME
+please rename syllabus.pdf to final report.pdf,RENAME
+clone video.mp4,DUPLICATE
+move invoice.pdf to downloads,MOVE
+please delete the file backup.zip,DELETE
+any tips to learn to swim,UNKNOWN
+please make a folder Work,CREATE_FOLDER
+clone invoice.pdf,DUPLICATE
+trash tax documents,DELETE
+go into Projects,NAVIGATE
+create folder Projects on desktop,CREATE_FOLDER
+please make a folder Media,CREATE_FOLDER
+can you create a file called thesis draft,CREATE_FILE
+please rename contract.pdf to bug screenshot.png,RENAME
+new folder Shared,CREATE_FOLDER
+please copy vacation photos to downloads,COPY
+switch to documents,NAVIGATE
+what is football,UNKNOWN
+delete the folder Photos,DELETE
+what is sports,UNKNOWN
+copy the file project proposal to Photos,COPY
+copy the file thesis draft to Personal,COPY
+can you delete internship report,DELETE
+look for tax documents,SEARCH
+create file contract.pdf,CREATE_FILE
+create a file called presentation.pptx,CREATE_FILE
+go to the College Work folder please,NAVIGATE
+new file presentation.pptx on downloads,CREATE_FILE
+copy the file syllabus.pdf to Old Files,COPY
+can you create a file called assignment.docx,CREATE_FILE
+start data.csv,OPEN
+go to the Media folder please,NAVIGATE
+can you open presentation.pptx,OPEN
+show document files in Media,LIST
+show image files in Media,LIST
+trash research paper,DELETE
+create folder Assignments on documents,CREATE_FOLDER
+move tax documents to Assignments,MOVE
+create folder Assignments on downloads,CREATE_FOLDER
+tell me about fashion,UNKNOWN
+open the Invoices folder,NAVIGATE
+please copy assignment.docx to desktop,COPY
+move photo.jpg to College Work,MOVE
+navigate into the Personal directory,NAVIGATE
+rename the file assignment.docx to old backup.zip,RENAME
+change the name of thesis draft to beach photos,RENAME
+search for song.mp3,SEARCH
+please delete the file meeting minutes,DELETE
+rename the file screenshot.png to exam timetable.xlsx,RENAME
+move the file song.mp3 to Archive,MOVE
+move the file invoice.pdf to Media,MOVE
+please make a folder Invoices,CREATE_FOLDER
+list all files in Networking,LIST
+copy the file budget.xlsx to Projects,COPY
+what's on my calendar,UNKNOWN
+erase backup.zip,DELETE
+change the name of assignment.docx to team minutes,RENAME
+trash video.mp4,DELETE
+add a file video.mp4,CREATE_FILE
+can you go to Drafts,NAVIGATE
+navigate into the Archive directory,NAVIGATE
+relocate travel itinerary to Semester 6,MOVE
+can you go to Shared,NAVIGATE
+rename the file photo.jpg to sensor data.csv,RENAME
+list all image files in Research,LIST
+create a copy of syllabus.pdf,DUPLICATE
+go to home,NAVIGATE
+please open syllabus.pdf,OPEN
+can you find lecture notes,SEARCH
+erase networking notes,DELETE
+please create song.mp3,CREATE_FILE
+move the file notes.txt to Shared,MOVE
+copy lecture notes to Personal,COPY
+what files are here,LIST
+create a folder called Archive,CREATE_FOLDER
+duplicate the file grocery list,DUPLICATE
+go to the Shared folder please,NAVIGATE
+list all document files in Projects,LIST
+can you open essay.docx,OPEN
+search for timetable.xlsx,SEARCH
+copy the file video.mp4 to Research,COPY
+rename the file meeting minutes to demo video.mp4,RENAME
+tell me about economics,UNKNOWN
+copy meeting minutes to Assignments,COPY
+copy travel itinerary to desktop,COPY
+please copy notes.txt to desktop,COPY
+look for my assignment.docx,SEARCH
+find timetable.xlsx from this morning,SEARCH
+please open data.csv,OPEN
+please copy data.csv to home,COPY
+show me what's in Networking,LIST
+change the name of final draft to revised notes,RENAME
+duplicate the file final draft,DUPLICATE
+please copy song.mp3 to documents,COPY
+erase thesis draft,DELETE
+locate budget.xlsx,SEARCH
+how do i write a resume,UNKNOWN
+can you make a copy of grocery list,DUPLICATE
+remove travel itinerary,DELETE
+navigate into the Work directory,NAVIGATE
+please copy screenshot.png to downloads,COPY
+create folder Photos on home,CREATE_FOLDER
+erase config.json,DELETE
+shift lecture notes into Assignments,MOVE
+copy final draft to Photos,COPY
+navigate to the Invoices folder,NAVIGATE
+please copy contract.pdf to home,COPY
+any tips to get better sleep,UNKNOWN
+can you go to Photos,NAVIGATE
+can you move video.mp4 to downloads,MOVE
+delete photo.jpg,DELETE
+duplicate the file photo.jpg,DUPLICATE
+search for the networking notes I made last month,SEARCH
+what do you think about philosophy,UNKNOWN
+can you create a folder named Invoices,CREATE_FOLDER
+copy travel itinerary to home,COPY
+can you move networking notes to documents,MOVE
+please go to home,NAVIGATE
+move photo.jpg to desktop,MOVE
+can you list the image files,LIST
+erase essay.docx,DELETE
+can you delete resume.docx,DELETE
+navigate to home,NAVIGATE
+please delete the file video.mp4,DELETE
+please copy contract.pdf to documents,COPY
+show python files in Old Files,LIST
+copy code review notes to documents,COPY
+find essay.docx,SEARCH
+move the file code review notes to Drafts,MOVE
+open the file essay.docx,OPEN
+please open song.mp3,OPEN
+can you make a copy of config.json,DUPLICATE
+create a file called project proposal,CREATE_FILE
+locate code review notes,SEARCH
+move timetable.xlsx to Archive,MOVE
+show me what's in Photos,LIST
+add a directory called Shared,CREATE_FOLDER
+relocate invoice.pdf to College Work,MOVE
+change directory to desktop,NAVIGATE
+can you create a file called grocery list,CREATE_FILE
+change the name of travel itinerary to demo video.mp4,RENAME
+look for research paper,SEARCH
+please open internship report,OPEN
+remove the file timetable.xlsx for me,DELETE
+go into Assignments,NAVIGATE
+please rename thesis draft to march invoice.pdf,RENAME
+move the file screenshot.png to Old Files,MOVE
+can you create a file called report.pdf,CREATE_FILE
+move syllabus.pdf to documents,MOVE
+can you help me fix a flat tire,UNKNOWN
+how do I cook pasta,UNKNOWN
+show text files in Media,LIST
+can you go to Invoices,NAVIGATE
+please open assignment.docx,OPEN
+please copy tax documents to home,COPY
+please copy presentation.pptx to desktop,COPY
+list all image files in Photos,LIST
+create code review notes in Work,CREATE_FILE
+copy lecture notes to Shared,COPY
+rename the file data.csv to revised notes,RENAME
+open travel itinerary,OPEN
+make a file final draft on documents,CREATE_FILE
+please create notes.txt,CREATE_FILE
+create final draft in Work,CREATE_FILE
+make a new folder named Archive,CREATE_FOLDER
+show me the document files,LIST
+get rid of screenshot.png,DELETE
+copy the file travel itinerary to Semester 6,COPY
+start travel itinerary,OPEN
+erase tax documents,DELETE
+take me to desktop,NAVIGATE
+copy the file networking notes to Old Files,COPY
+delete the folder Research,DELETE
+launch photo.jpg,OPEN
+list every image file here,LIST
+duplicate the file screenshot.png,DUPLICATE
+what do you think about astronomy,UNKNOWN
+list all image files in Media,LIST
+search for code review notes,SEARCH
+search for the assignment.docx I made today,SEARCH
+open invoice.pdf,OPEN
+duplicate meeting minutes,DUPLICATE
+find photo.jpg from two days ago,SEARCH
+please delete the file lecture notes,DELETE
+move lecture notes to desktop,MOVE
+copy the file tax documents to Semester 6,COPY
+open the file data.csv,OPEN
+launch resume.docx,OPEN
+find contract.pdf from a few days ago,SEARCH
+can you help me write a resume,UNKNOWN
+list pdf files,LIST
+find internship report from two days ago,SEARCH
+what is science,UNKNOWN
+copy the file thesis draft to Research,COPY
+create grocery list in Invoices,CREATE_FILE
+stop listening,UNKNOWN
+change the name of timetable.xlsx to 2025 tax forms,RENAME
+can you open report.pdf,OPEN
+go to Work,NAVIGATE
+create file photo.jpg,CREATE_FILE
+tell me about space,UNKNOWN
+what is AI,UNKNOWN
+shift meeting minutes into Invoices,MOVE
+create a folder called Networking,CREATE_FOLDER
+open the Backup folder,NAVIGATE
+go into Personal,NAVIGATE
+shift song.mp3 into Backup,MOVE
+start contract.pdf,OPEN
+tell me about astronomy,UNKNOWN
+list all files in Work,LIST
+list all pdf files in Shared,LIST
+go to the Invoices folder please,NAVIGATE
+duplicate report.pdf,DUPLICATE
+increase the volume,UNKNOWN
+clone notes.txt,DUPLICATE
+please create vacation photos,CREATE_FILE
+make a file tax documents on documents,CREATE_FILE
+copy tax documents to documents,COPY
+rename thesis draft to demo video.mp4,RENAME
+new file backup.zip on documents,CREATE_FILE
+list all document files in Research,LIST
+navigate into the Photos directory,NAVIGATE
+list all python files in Networking,LIST
+duplicate assignment.docx,DUPLICATE
+move contract.pdf to Shared,MOVE
+open timetable.xlsx,OPEN
+any tips to lose weight,UNKNOWN
+create final draft in College Work,CREATE_FILE
+create folder Shared on downloads,CREATE_FOLDER
+move code review notes to Projects,MOVE
+add a directory called Assignments,CREATE_FOLDER
+what is travel,UNKNOWN
+shift lecture notes into Projects,MOVE
+create photo.jpg in Archive,CREATE_FILE
+make a new file named backup.zip,CREATE_FILE
+tell me about art,UNKNOWN
+please make a folder Assignments,CREATE_FOLDER
+remove budget.xlsx,DELETE
+rename the file photo.jpg to new proposal,RENAME
+look for my backup.zip,SEARCH
+duplicate the file vacation photos,DUPLICATE
+trash travel itinerary,DELETE
+copy syllabus.pdf to Networking,COPY
+make a file lecture notes on documents,CREATE_FILE
+rename the file notes.txt to exam timetable.xlsx,RENAME
+change the name of song.mp3 to sensor data.csv,RENAME
+launch budget.xlsx,OPEN
+any tips to learn python,UNKNOWN
+new folder College Work,CREATE_FOLDER
+display everything here,LIST
+please copy lecture notes to documents,COPY
+search for notes.txt,SEARCH
+look for config.json,SEARCH
+duplicate internship report,DUPLICATE
+go to Archive,NAVIGATE
+move the file syllabus.pdf to Drafts,MOVE
+get rid of timetable.xlsx,DELETE
+go into Networking,NAVIGATE
+copy travel itinerary to Drafts,COPY
+can you create a file called config.json,CREATE_FILE
+move project proposal to Research,MOVE
+relocate essay.docx to Drafts,MOVE
+can you create a file called notes.txt,CREATE_FILE
+please rename internship report to revised notes,RENAME
+launch lecture notes,OPEN
+can you go to Personal,NAVIGATE
+create folder Networking on desktop,CREATE_FOLDER
+copy contract.pdf to Invoices,COPY
+duplicate the file timetable.xlsx,DUPLICATE
+go to Projects,NAVIGATE
+rename the file song.mp3 to updated resume.docx,RENAME
+can you go to Archive,NAVIGATE
+add a file config.json,CREATE_FILE
+show python files,LIST
+show me what's in Shared,LIST
+take me back to home,NAVIGATE
+what do you think about science,UNKNOWN
+rename the file video.mp4 to updated resume.docx,RENAME
+create a folder called Media,CREATE_FOLDER
+what is technology,UNKNOWN
+what do you think about music,UNKNOWN
+how do i study for exams,UNKNOWN
+please delete the file resume.docx,DELETE
+new folder Networking,CREATE_FOLDER
+open photo.jpg,OPEN
+navigate to downloads,NAVIGATE
+duplicate the file essay.docx,DUPLICATE
+can you create a file called resume.docx,CREATE_FILE
+what do you think about gardening,UNKNOWN
+create folder Research on home,CREATE_FOLDER
+clone syllabus.pdf,DUPLICATE
+clone song.mp3,DUPLICATE
+list every document file here,LIST
+tell me about cricket,UNKNOWN
+locate thesis draft,SEARCH
+duplicate the file networking notes,DUPLICATE
+can you create a folder named Research,CREATE_FOLDER
+show me all images,LIST
+get rid of resume.docx,DELETE
+search for config.json,SEARCH
+open assignment.docx,OPEN
+tell me about climate change,UNKNOWN
+can you find report.pdf,SEARCH
+look for my research paper,SEARCH
+change the name of internship report to bug screenshot.png,RENAME
+make a copy of screenshot.png,DUPLICATE
+duplicate timetable.xlsx,DUPLICATE
+search for the contract.pdf I made today,SEARCH
+rename presentation.pptx to class notes.txt,RENAME
+move notes.txt to home,MOVE
+open video.mp4,OPEN
+look for budget.xlsx,SEARCH
+move data.csv to downloads,MOVE
+create a copy of invoice.pdf,DUPLICATE
+can you move timetable.xlsx to documents,MOVE
+create a copy of presentation.pptx,DUPLICATE
+can you create a folder named Media,CREATE_FOLDER
+add a file thesis draft,CREATE_FILE
+add a directory called Research,CREATE_FOLDER
+get rid of grocery list,DELETE
+duplicate the file contract.pdf,DUPLICATE
+rename config.json to final essay.docx,RENAME
+can you go to Work,NAVIGATE
+relocate project proposal to Shared,MOVE
+can you move vacation photos to desktop,MOVE
+rename the file tax documents to app config.json,RENAME
+can you find vacation photos,SEARCH
+add a directory called Projects,CREATE_FOLDER
+relocate timetable.xlsx to Personal,MOVE
+navigate to documents,NAVIGATE
+can you delete notes.txt,DELETE
+move backup.zip to Projects,MOVE
+can you list the text files,LIST
+create folder Media on home,CREATE_FOLDER
+locate grocery list,SEARCH
+make a file thesis draft on desktop,CREATE_FILE
+change the name of song.mp3 to homework.docx,RENAME
+show me what's in Semester 6,LIST
+rename notes.txt to bug screenshot.png,RENAME
+can you create a folder named Networking,CREATE_FOLDER
+search for the screenshot.png I made last Monday,SEARCH
+copy notes.txt to Projects,COPY
+find backup.zip,SEARCH
+duplicate the file syllabus.pdf,DUPLICATE
+delete the folder Networking,DELETE
+shift invoice.pdf into Media,MOVE
+create file song.mp3,CREATE_FILE
+rename notes.txt to revised notes,RENAME
+make a copy of code review notes,DUPLICATE
+create file budget.xlsx,CREATE_FILE
+head to documents,NAVIGATE
+can you open final draft,OPEN
+change the name of data.csv to final essay.docx,RENAME
+open the Media folder,NAVIGATE
+make a new folder named Invoices,CREATE_FOLDER
+head to downloads,NAVIGATE
+go to the Drafts folder please,NAVIGATE
+shift lecture notes into Archive,MOVE
+can you create a file called backup.zip,CREATE_FILE
+take me to downloads,NAVIGATE
+create a folder called Research,CREATE_FOLDER
+create file vacation photos,CREATE_FILE
+launch presentation.pptx,OPEN
+copy the file essay.docx to College Work,COPY
+can you move code review notes to desktop,MOVE
+what do you think about photography,UNKNOWN
+rename the file config.json to new proposal,RENAME
+list document files,LIST
+start invoice.pdf,OPEN
+create a file called essay.docx,CREATE_FILE
+trash internship report,DELETE
+go to the Assignments folder please,NAVIGATE
+start final draft,OPEN
+please rename backup.zip to updated resume.docx,RENAME
+go to documents,NAVIGATE
+navigate to the College Work folder,NAVIGATE
+navigate into the Projects directory,NAVIGATE
+head to home,NAVIGATE
+can you find networking notes,SEARCH
+rename networking notes to demo video.mp4,RENAME
+create a file called screenshot.png,CREATE_FILE
+what do you think about AI,UNKNOWN
+please make a folder Personal,CREATE_FOLDER
+duplicate final draft,DUPLICATE
+go to Assignments,NAVIGATE
+rename the file networking notes to updated resume.docx,RENAME
+relocate essay.docx to Projects,MOVE
+show all document documents,LIST
+open the file code review notes,OPEN
+move the file research paper to Work,MOVE
+delete notes.txt,DELETE
+new folder Assignments,CREATE_FOLDER
+please copy presentation.pptx to home,COPY
+find meeting minutes from yesterday,SEARCH
+rename the file backup.zip to final report.pdf,RENAME
+make a file presentation.pptx on home,CREATE_FILE
+show contents of this folder,LIST
+remove the file assignment.docx for me,DELETE
+how do i learn python,UNKNOWN
+rename the file resume.docx to favorite song.mp3,RENAME
+move the file invoice.pdf to Work,MOVE
+please copy essay.docx to documents,COPY
+head to desktop,NAVIGATE
+copy data.csv to Shared,COPY
+create a copy of song.mp3,DUPLICATE
+create a folder called Old Files,CREATE_FOLDER
+switch to desktop,NAVIGATE
+duplicate the file presentation.pptx,DUPLICATE
+list all files in Media,LIST
+find notes.txt from last week,SEARCH
+new file lecture notes on desktop,CREATE_FILE
+open project proposal,OPEN
+please make a folder Networking,CREATE_FOLDER
+rename the file video.mp4 to app config.json,RENAME
+add a directory called Photos,CREATE_FOLDER
+copy screenshot.png to Assignments,COPY
+go into Semester 6,NAVIGATE
+rename essay.docx to homework.docx,RENAME
+make a copy of networking notes,DUPLICATE
+clone meeting minutes,DUPLICATE
+please copy lecture notes to downloads,COPY
+duplicate essay.docx,DUPLICATE
+can you move meeting minutes to downloads,MOVE
+tell me about football,UNKNOWN
+new folder Old Files,CREATE_FOLDER
+get rid of lecture notes,DELETE
+new file presentation.pptx on documents,CREATE_FILE
+get rid of invoice.pdf,DELETE
+clone backup.zip,DUPLICATE
+copy research paper to Backup,COPY
+any tips to write a resume,UNKNOWN
+rename grocery list to beach photos,RENAME
+open data.csv,OPEN
+who is the president,UNKNOWN
+look for my final draft,SEARCH
+start assignment.docx,OPEN
+list all files in Research,LIST
+show image files in Projects,LIST
+make a new folder named Media,CREATE_FOLDER
+copy budget.xlsx to Networking,COPY
+make a copy of config.json,DUPLICATE
+show me desktop,NAVIGATE
+copy the file grocery list to Media,COPY
+can you move syllabus.pdf to documents,MOVE
+please rename project proposal to 2025 tax forms,RENAME
+add a file song.mp3,CREATE_FILE
+move config.json to home,MOVE
+change the name of project proposal to app config.json,RENAME
+duplicate the file backup.zip,DUPLICATE
+make a copy of data.csv,DUPLICATE
+trash lecture notes,DELETE
+delete project proposal,DELETE
+can you delete backup.zip,DELETE
+look for my contract.pdf,SEARCH
+remove the file notes.txt for me,DELETE
+please rename research paper to updated resume.docx,RENAME
+show me downloads,NAVIGATE
+can you find contract.pdf,SEARCH
+locate contract.pdf,SEARCH
+can you create a folder named Personal,CREATE_FOLDER
+move screenshot.png to Old Files,MOVE
+can you find thesis draft,SEARCH
+list all files in Old Files,LIST
+navigate to the Media folder,NAVIGATE
+go to Personal,NAVIGATE
+copy presentation.pptx to desktop,COPY
+can you delete assignment.docx,DELETE
+remove report.pdf,DELETE
+trash essay.docx,DELETE
+tell me about technology,UNKNOWN
+create folder College Work on downloads,CREATE_FOLDER
+can you delete project proposal,DELETE
+add a directory called Old Files,CREATE_FOLDER
+copy research paper to Archive,COPY
+make a file video.mp4 on desktop,CREATE_FILE
+what is politics,UNKNOWN
+new file final draft on desktop,CREATE_FILE
+please open final draft,OPEN
+create syllabus.pdf in Research,CREATE_FILE
+make a new folder named Projects,CREATE_FOLDER
+what is gardening,UNKNOWN
+create a file called internship report,CREATE_FILE
+can you move data.csv to home,MOVE
+locate networking notes,SEARCH
+rename the file essay.docx to sensor data.csv,RENAME
+what is philosophy,UNKNOWN
+search for travel itinerary,SEARCH
+can you create a file called song.mp3,CREATE_FILE
+duplicate photo.jpg,DUPLICATE
+please create budget.xlsx,CREATE_FILE
+launch assignment.docx,OPEN
+what is music,UNKNOWN
+create folder Semester 6 on desktop,CREATE_FOLDER
+list all files in Invoices,LIST
+launch video.mp4,OPEN
+can you go to Media,NAVIGATE
+create a copy of notes.txt,DUPLICATE
+delete meeting minutes,DELETE
+can you delete contract.pdf,DELETE
+rename timetable.xlsx to holiday photo.jpg,RENAME
+create a copy of config.json,DUPLICATE
+make a copy of photo.jpg,DUPLICATE
+make a copy of project proposal,DUPLICATE
+search for resume.docx,SEARCH
+duplicate tax documents,DUPLICATE
+create a copy of code review notes,DUPLICATE
+find tax documents from yesterday,SEARCH
+list text files,LIST
+show markdown files,LIST
+any tips to make coffee,UNKNOWN
+create networking notes in Research,CREATE_FILE
+can you open video.mp4,OPEN
+navigate to the Personal folder,NAVIGATE
+create a copy of budget.xlsx,DUPLICATE
+go into College Work,NAVIGATE
+duplicate lecture notes,DUPLICATE
+trash photo.jpg,DELETE
+copy code review notes to Shared,COPY
+start photo.jpg,OPEN
+create a folder called College Work,CREATE_FOLDER
+new file config.json on downloads,CREATE_FILE
+how do i fix a flat tire,UNKNOWN
+show pdf files in Photos,LIST
+can you open internship report,OPEN
+create folder Shared on home,CREATE_FOLDER
+please rename video.mp4 to updated resume.docx,RENAME
+create a copy of report.pdf,DUPLICATE
+search for the assignment.docx I made this morning,SEARCH
+get rid of essay.docx,DELETE
+please make a folder Research,CREATE_FOLDER
+duplicate grocery list,DUPLICATE
+can you delete meeting minutes,DELETE
+list python files,LIST
+navigate to the Assignments folder,NAVIGATE
+take me back to desktop,NAVIGATE
+create folder Archive on desktop,CREATE_FOLDER
+new file vacation photos on desktop,CREATE_FILE
+move song.mp3 to Archive,MOVE
+change the name of research paper to 2025 tax forms,RENAME
+launch screenshot.png,OPEN
+move budget.xlsx to Archive,MOVE
+search for the meeting minutes I made two days ago,SEARCH
+rename song.mp3 to beach photos,RENAME
+get rid of networking notes,DELETE
+change the name of tax documents to sales presentation.pptx,RENAME
+show me what's in Personal,LIST
+open the Networking folder,NAVIGATE
+please rename contract.pdf to sales presentation.pptx,RENAME
+find thesis draft from last Monday,SEARCH
+please rename timetable.xlsx to quarterly budget.xlsx,RENAME
+make a copy of tax documents,DUPLICATE
+copy research paper to Old Files,COPY
+delete config.json,DELETE
+tell me about science,UNKNOWN
+clone screenshot.png,DUPLICATE
+show image files in Research,LIST
+rename the file travel itinerary to favorite song.mp3,RENAME
+open syllabus.pdf,OPEN
+change the name of grocery list to final thesis.docx,RENAME
+launch invoice.pdf,OPEN
+shift research paper into Personal,MOVE
+what is photography,UNKNOWN
+make a copy of notes.txt,DUPLICATE
+open the file invoice.pdf,OPEN
+can you find backup.zip,SEARCH
+open lecture notes,OPEN
+move the file photo.jpg to Networking,MOVE
+shift backup.zip into Backup,MOVE
+search for the research paper I made last year,SEARCH
+please rename meeting minutes to final thesis.docx,RENAME
+copy the file video.mp4 to Archive,COPY
+make a new file named report.pdf,CREATE_FILE
+copy contract.pdf to documents,COPY
+create a folder called Photos,CREATE_FOLDER
+rename resume.docx to app config.json,RENAME
+please rename contract.pdf to new proposal,RENAME
+rename report.pdf to app config.json,RENAME
+please open screenshot.png,OPEN
+new folder Media,CREATE_FOLDER
+search for the travel itinerary I made last year,SEARCH
+copy report.pdf to Media,COPY
+move the file essay.docx to Projects,MOVE
+add a file syllabus.pdf,CREATE_FILE
+how are you,UNKNOWN
+get rid of photo.jpg,DELETE
+show all markdown documents,LIST
+open the Work folder,NAVIGATE
+go to the Work folder please,NAVIGATE
+change the name of tax documents to team minutes,RENAME
+list all files in Archive,LIST
+create folder Old Files on documents,CREATE_FOLDER
+move config.json to Personal,MOVE
+move the file meeting minutes to Invoices,MOVE
+list image files,LIST
+show pdf files in Drafts,LIST
+delete thesis draft,DELETE
+locate resume.docx,SEARCH
+create a copy of resume.docx,DUPLICATE
+show document files in Networking,LIST
+remove meeting minutes,DELETE
+make a copy of budget.xlsx,DUPLICATE
+move the file syllabus.pdf to Backup,MOVE
+how do i bake a cake,UNKNOWN
+please rename project proposal to favorite song.mp3,RENAME
+display all documents,LIST
+can you create a folder named Shared,CREATE_FOLDER
+copy the file video.mp4 to Invoices,COPY
+look for my code review notes,SEARCH
+can you open invoice.pdf,OPEN
+please make a folder Backup,CREATE_FOLDER
+please make a folder Archive,CREATE_FOLDER
+create a file called resume.docx,CREATE_FILE
+copy vacation photos to Work,COPY
+open the file config.json,OPEN
+create a copy of internship report,DUPLICATE
+please open travel itinerary,OPEN
+take me back to downloads,NAVIGATE
+copy notes.txt to home,COPY
+please rename config.json to march invoice.pdf,RENAME
+show markdown files in Old Files,LIST
+move budget.xlsx to Personal,MOVE
+create a copy of research paper,DUPLICATE
+copy presentation.pptx to Projects,COPY
+can you make a copy of contract.pdf,DUPLICATE
+delete tax documents,DELETE
+create a copy of screenshot.png,DUPLICATE
+delete code review notes,DELETE
+please make a folder Drafts,CREATE_FOLDER
+any tips to manage stress,UNKNOWN
+make a new file named video.mp4,CREATE_FILE
+go to the Photos folder please,NAVIGATE
+copy research paper to Semester 6,COPY
+shift lecture notes into Work,MOVE
+duplicate the file research paper,DUPLICATE
+navigate to the Photos folder,NAVIGATE
+shift backup.zip into Semester 6,MOVE
+start research paper,OPEN
+list every text file here,LIST
+create timetable.xlsx in Research,CREATE_FILE
+can you go to College Work,NAVIGATE
+go to the Personal folder please,NAVIGATE
+please open resume.docx,OPEN
+create folder Drafts on home,CREATE_FOLDER
+new file data.csv on desktop,CREATE_FILE
+create folder Archive on home,CREATE_FOLDER
+can you help me plan a trip,UNKNOWN
+find tax documents from last Monday,SEARCH
+please rename networking notes to holiday photo.jpg,RENAME
+look for syllabus.pdf,SEARCH
+remove config.json,DELETE
+navigate to the Archive folder,NAVIGATE
+copy assignment.docx to College Work,COPY
+get rid of tax documents,DELETE
+can you open syllabus.pdf,OPEN
+navigate into the Media directory,NAVIGATE
+create folder Networking on documents,CREATE_FOLDER
+remove the file thesis draft for me,DELETE
+remind me to call mom,UNKNOWN
+what is movies,UNKNOWN
+go up,NAVIGATE
+add a file meeting minutes,CREATE_FILE
+can you help me improve my memory,UNKNOWN
+copy the file screenshot.png to College Work,COPY
+open the file timetable.xlsx,OPEN
+please rename photo.jpg to app config.json,RENAME
+move the file grocery list to College Work,MOVE
+make a new folder named Shared,CREATE_FOLDER
+duplicate vacation photos,DUPLICATE
+remove the file internship report for me,DELETE
+create folder Photos on desktop,CREATE_FOLDER
+go into Invoices,NAVIGATE
+show text files in Shared,LIST
+can you create a file called data.csv,CREATE_FILE
+duplicate presentation.pptx,DUPLICATE
+list all pdf files in Semester 6,LIST
+show image files in College Work,LIST
+any tips to meditate,UNKNOWN
+create research paper in Work,CREATE_FILE
+any tips to plan a trip,UNKNOWN
+new folder Semester 6,CREATE_FOLDER
+create a copy of video.mp4,DUPLICATE
+navigate into the College Work directory,NAVIGATE
+make a copy of research paper,DUPLICATE
+copy report.pdf to documents,COPY
+copy config.json to Shared,COPY
+how do i lose weight,UNKNOWN
+find vacation photos from today,SEARCH
+can you find photo.jpg,SEARCH
+what do you think about sports,UNKNOWN
+copy the file data.csv to Projects,COPY
+rename the file song.mp3 to app config.json,RENAME
+can you delete budget.xlsx,DELETE
+add a directory called Invoices,CREATE_FOLDER
+open the College Work folder,NAVIGATE
+show image files in Personal,LIST
+locate timetable.xlsx,SEARCH
+can you move essay.docx to documents,MOVE
+create folder Media on desktop,CREATE_FOLDER
+move thesis draft to Media,MOVE
+add a file report.pdf,CREATE_FILE
+open code review notes,OPEN
+can you create a folder named Backup,CREATE_FOLDER
+change the name of budget.xlsx to new proposal,RENAME
+can you create a file called timetable.xlsx,CREATE_FILE
+can you open song.mp3,OPEN
+copy thesis draft to College Work,COPY
+start lecture notes,OPEN
+make a copy of thesis draft,DUPLICATE
+add a file timetable.xlsx,CREATE_FILE
+look for my presentation.pptx,SEARCH
+show image files in Old Files,LIST
+open the file tax documents,OPEN
+relocate song.mp3 to Projects,MOVE
+shift essay.docx into Research,MOVE
+shift project proposal into Personal,MOVE
+start timetable.xlsx,OPEN
+tell me about photography,UNKNOWN
+what do you think about art,UNKNOWN
+find screenshot.png from last week,SEARCH
+make a new folder named Networking,CREATE_FOLDER
+duplicate code review notes,DUPLICATE
+duplicate the file travel itinerary,DUPLICATE
+can you make a copy of meeting minutes,DUPLICATE
+move config.json to Semester 6,MOVE
+start networking notes,OPEN
+show all folders,LIST
+please rename timetable.xlsx to beach photos,RENAME
+make a file vacation photos on documents,CREATE_FILE
+get rid of song.mp3,DELETE
+new file meeting minutes on downloads,CREATE_FILE
+copy essay.docx to Shared,COPY
+please rename assignment.docx to final essay.docx,RENAME
+can you move vacation photos to home,MOVE
+what's the capital of France,UNKNOWN
+navigate to the Projects folder,NAVIGATE
+delete the folder Personal,DELETE
+get rid of assignment.docx,DELETE
+shift research paper into Media,MOVE
+locate meeting minutes,SEARCH
+navigate to the Networking folder,NAVIGATE
+start code review notes,OPEN
+move the file travel itinerary to Media,MOVE
+show all pdf documents,LIST
+find report.pdf from this morning,SEARCH
+make a new file named research paper,CREATE_FILE
+remove the file lecture notes for me,DELETE
+please rename budget.xlsx to bug screenshot.png,RENAME
+make a copy of essay.docx,DUPLICATE
+find all invoices,SEARCH
+navigate to desktop,NAVIGATE
+open the file final draft,OPEN
+please copy timetable.xlsx to home,COPY
+rename data.csv to sales presentation.pptx,RENAME
+go to Shared,NAVIGATE
+delete the folder Media,DELETE
+can you help me lose weight,UNKNOWN
+make a new folder named Semester 6,CREATE_FOLDER
+create syllabus.pdf in Archive,CREATE_FILE
+create folder Drafts on downloads,CREATE_FOLDER
+add a directory called Archive,CREATE_FOLDER
+tell me about health,UNKNOWN
+find presentation.pptx,SEARCH
+show pdf files in Invoices,LIST
+find resume.docx,SEARCH
+create timetable.xlsx in Semester 6,CREATE_FILE
+move the file budget.xlsx to Assignments,MOVE
+find internship report,SEARCH
+open the file contract.pdf,OPEN
+start project proposal,OPEN
+copy contract.pdf to desktop,COPY
+please open backup.zip,OPEN
+create internship report in Projects,CREATE_FILE
+can you make a copy of essay.docx,DUPLICATE
+launch backup.zip,OPEN
+create a folder called Projects,CREATE_FOLDER
+can you help me study for exams,UNKNOWN
+copy code review notes to downloads,COPY
+move tax documents to home,MOVE
+show pdf files,LIST
+make a file research paper on home,CREATE_FILE
+create folder Assignments on desktop,CREATE_FOLDER
+locate screenshot.png,SEARCH
+show text files in Projects,LIST
+move assignment.docx to Projects,MOVE
+can you create a file called invoice.pdf,CREATE_FILE
+open the file research paper,OPEN
+make a new folder named Old Files,CREATE_FOLDER
+get rid of research paper,DELETE
+list all files in Projects,LIST
+move the file lecture notes to Media,MOVE
+any tips to learn guitar,UNKNOWN
+add a file project proposal,CREATE_FILE
+find invoice.pdf,SEARCH
+make a new folder named Work,CREATE_FOLDER
+find tax documents,SEARCH
+launch thesis draft,OPEN
+can you create a folder named Semester 6,CREATE_FOLDER
+open the file budget.xlsx,OPEN
+new folder Research,CREATE_FOLDER
+tell me about AI,UNKNOWN
+go to Research,NAVIGATE
+can you move budget.xlsx to documents,MOVE
+add a file final draft,CREATE_FILE
+shift lecture notes into Shared,MOVE
+change the name of grocery list to favorite song.mp3,RENAME
+go home,NAVIGATE
+add a directory called Work,CREATE_FOLDER
+rename essay.docx to demo video.mp4,RENAME
+rename the file vacation photos to final essay.docx,RENAME
+can you move networking notes to home,MOVE
+translate hello to french,UNKNOWN
+search for the assignment.docx I made last week,SEARCH
+please go to documents,NAVIGATE
+can you create a file called video.mp4,CREATE_FILE
+add a directory called Semester 6,CREATE_FOLDER
+create folder Networking on home,CREATE_FOLDER
+shift presentation.pptx into Assignments,MOVE
+can you move assignment.docx to documents,MOVE
+trash song.mp3,DELETE
+make a copy of invoice.pdf,DUPLICATE
+please rename project proposal to final essay.docx,RENAME
+new folder Projects,CREATE_FOLDER
+search for the vacation photos I made today,SEARCH
+can you make a copy of photo.jpg,DUPLICATE
+new file budget.xlsx on desktop,CREATE_FILE
+new folder Drafts,CREATE_FOLDER
+can you move presentation.pptx to downloads,MOVE
+can you make a copy of thesis draft,DUPLICATE
+copy the file song.mp3 to Archive,COPY
+make a file backup.zip on downloads,CREATE_FILE
+shift screenshot.png into Semester 6,MOVE
+can you help me manage stress,UNKNOWN
+what's in this folder,LIST
+start thesis draft,OPEN
+please rename code review notes to revised notes,RENAME
+new file resume.docx on desktop,CREATE_FILE
+create a copy of assignment.docx,DUPLICATE
+create report.pdf in Projects,CREATE_FILE
+take me to home,NAVIGATE
+copy screenshot.png to downloads,COPY
+go to the Archive folder please,NAVIGATE
+start resume.docx,OPEN
+navigate to the Work folder,NAVIGATE
+please delete the file networking notes,DELETE
+list all files in Photos,LIST
+search for data.csv,SEARCH
+start report.pdf,OPEN
+move assignment.docx to Photos,MOVE
+what do you think about the stock market,UNKNOWN
+open the file screenshot.png,OPEN
+find travel itinerary from yesterday,SEARCH
+open contract.pdf,OPEN
+show markdown files in College Work,LIST
+rename project proposal to march invoice.pdf,RENAME
+can you list the pdf files,LIST
+can you help me get better sleep,UNKNOWN
+find contract.pdf,SEARCH
+rename the file data.csv to final report.pdf,RENAME
+take me to documents,NAVIGATE
+duplicate the file lecture notes,DUPLICATE
+any tips to bake a cake,UNKNOWN
+please rename invoice.pdf to holiday photo.jpg,RENAME
+trash report.pdf,DELETE
+show python files in Research,LIST
+remove notes.txt,DELETE
+new folder Archive,CREATE_FOLDER
+remove the file tax documents for me,DELETE
+list all files in Personal,LIST
+show image files in Assignments,LIST
+duplicate the file internship report,DUPLICATE
+list all text files in Shared,LIST
+get rid of meeting minutes,DELETE
+list all document files in Work,LIST
+can you find essay.docx,SEARCH
+list all files in Shared,LIST
+how do i plan a trip,UNKNOWN
+new folder Invoices,CREATE_FOLDER
+copy screenshot.png to documents,COPY
+create a copy of tax documents,DUPLICATE
+add a file networking notes,CREATE_FILE
+can you make a copy of vacation photos,DUPLICATE
+tell me about movies,UNKNOWN
+rename internship report to final report.pdf,RENAME
+can you create a file called contract.pdf,CREATE_FILE
+copy grocery list to downloads,COPY
+change directory to downloads,NAVIGATE
+can you make a copy of screenshot.png,DUPLICATE
+clone timetable.xlsx,DUPLICATE
+relocate presentation.pptx to Projects,MOVE
+create a folder called Personal,CREATE_FOLDER
+can you make a copy of lecture notes,DUPLICATE
+copy the file screenshot.png to Photos,COPY
+please rename config.json to team minutes,RENAME
+make a new file named internship report,CREATE_FILE
+duplicate the file config.json,DUPLICATE
+search for invoice.pdf,SEARCH
+please open grocery list,OPEN
+clone networking notes,DUPLICATE
+copy the file final draft to Research,COPY
+can you open photo.jpg,OPEN
+delete the folder Semester 6,DELETE
+create file assignment.docx,CREATE_FILE
+clone contract.pdf,DUPLICATE
+copy the file invoice.pdf to Drafts,COPY
+copy song.mp3 to home,COPY
+please copy notes.txt to documents,COPY
+copy invoice.pdf to documents,COPY
+remove the file photo.jpg for me,DELETE
+open the file photo.jpg,OPEN
+make a new file named config.json,CREATE_FILE
+show me the image files,LIST
+create folder Old Files on desktop,CREATE_FOLDER
+make a new folder named Backup,CREATE_FOLDER
+show me what's in Media,LIST
+copy internship report to College Work,COPY
+navigate to the Research folder,NAVIGATE
+list every pdf file here,LIST
+open the file notes.txt,OPEN
+remove the file screenshot.png for me,DELETE
+can you create a file called meeting minutes,CREATE_FILE
+create file travel itinerary,CREATE_FILE
+can you go to Assignments,NAVIGATE
+can you create a file called tax documents,CREATE_FILE
+can you delete travel itinerary,DELETE
+make a file config.json on home,CREATE_FILE
+shift notes.txt into Work,MOVE
+search for backup.zip,SEARCH
+please open notes.txt,OPEN
+search for the contract.pdf I made yesterday,SEARCH
+can you move project proposal to desktop,MOVE
+move config.json to Old Files,MOVE
+change the name of presentation.pptx to favorite song.mp3,RENAME
+search for the code review notes I made a few days ago,SEARCH
+start notes.txt,OPEN
+rename config.json to bug screenshot.png,RENAME
+shift meeting minutes into Backup,MOVE
+find presentation.pptx from last month,SEARCH
+what do you think about climate change,UNKNOWN
+can you find invoice.pdf,SEARCH
+create a copy of lecture notes,DUPLICATE
+open resume.docx,OPEN
+please rename invoice.pdf to favorite song.mp3,RENAME
+show text files in Semester 6,LIST
+can you delete video.mp4,DELETE
+trash vacation photos,DELETE
+how do i learn guitar,UNKNOWN
+what do you think about fashion,UNKNOWN
+move assignment.docx to Drafts,MOVE
+make a new folder named Assignments,CREATE_FOLDER
+show text files,LIST
+show pdf files in Backup,LIST
+trash screenshot.png,DELETE
+tell me about gardening,UNKNOWN
+rename the file song.mp3 to revised notes,RENAME
+go to Networking,NAVIGATE
+show me what's in Archive,LIST
+can you make a copy of code review notes,DUPLICATE
+shift config.json into Photos,MOVE
+copy the file tax documents to Backup,COPY
+change the name of networking notes to app config.json,RENAME
+search for tax documents,SEARCH
+change the name of song.mp3 to team minutes,RENAME
+navigate into the Shared directory,NAVIGATE
+add a directory called Networking,CREATE_FOLDER
+create file video.mp4,CREATE_FILE
+get rid of final draft,DELETE
+rename the file timetable.xlsx to 2025 tax forms,RENAME
+locate photo.jpg,SEARCH
+search for the travel itinerary I made last Monday,SEARCH
+create a file called timetable.xlsx,CREATE_FILE
+create a file called photo.jpg,CREATE_FILE
+open config.json,OPEN
+can you find research paper,SEARCH
+launch timetable.xlsx,OPEN
+list all the files in this directory,LIST
+what is space,UNKNOWN
+what do you think about movies,UNKNOWN
+show me the markdown files,LIST
+copy screenshot.png to Old Files,COPY
+tell me about sports,UNKNOWN
+duplicate the file notes.txt,DUPLICATE
+can you go to Projects,NAVIGATE
+can you create a folder named Projects,CREATE_FOLDER
+open the file video.mp4,OPEN
+find timetable.xlsx,SEARCH
+show all text documents,LIST
+move travel itinerary to home,MOVE
+delete the folder Projects,DELETE
+list all files in Assignments,LIST
+rename the file photo.jpg to quarterly budget.xlsx,RENAME
+make a new folder named Drafts,CREATE_FOLDER
+set an alarm for seven a m,UNKNOWN
+list every python file here,LIST
+good morning,UNKNOWN
+how do i make coffee,UNKNOWN
+duplicate video.mp4,DUPLICATE
+locate song.mp3,SEARCH
+thank you,UNKNOWN
+create grocery list in Work,CREATE_FILE
+please go to downloads,NAVIGATE
+create folder Assignments on home,CREATE_FOLDER
+copy meeting minutes to Photos,COPY
+list all document files in Shared,LIST
+start video.mp4,OPEN
+can you move final draft to home,MOVE
+create folder Networking on downloads,CREATE_FOLDER
+rename the file screenshot.png to favorite song.mp3,RENAME
+can you create a folder named Photos,CREATE_FOLDER
+copy syllabus.pdf to desktop,COPY
+what is cricket,UNKNOWN
+show me documents,NAVIGATE
+open the Archive folder,NAVIGATE
+rename the file code review notes to updated resume.docx,RENAME
+find video.mp4,SEARCH
+search for the resume.docx I made today,SEARCH
+rename the file backup.zip to beach photos,RENAME
+create a copy of essay.docx,DUPLICATE
+add a file tax documents,CREATE_FILE
+please delete the file report.pdf,DELETE
+copy photo.jpg to documents,COPY
+please rename invoice.pdf to old backup.zip,RENAME
+move networking notes to desktop,MOVE
+open vacation photos,OPEN
+please delete the file timetable.xlsx,DELETE
+relocate essay.docx to Assignments,MOVE
+create folder Semester 6 on documents,CREATE_FOLDER
+copy data.csv to desktop,COPY
+can you move presentation.pptx to desktop,MOVE
+make a new file named photo.jpg,CREATE_FILE
+make a new file named presentation.pptx,CREATE_FILE
+can you make a copy of research paper,DUPLICATE
+what do you think about economics,UNKNOWN
+locate final draft,SEARCH
+add a directory called Backup,CREATE_FOLDER
+remove the file project proposal for me,DELETE
+copy presentation.pptx to Media,COPY
+can you move photo.jpg to desktop,MOVE
+please delete the file code review notes,DELETE
+make a new folder named College Work,CREATE_FOLDER
+please rename final draft to holiday photo.jpg,RENAME
+duplicate contract.pdf,DUPLICATE
+trash config.json,DELETE
+rename backup.zip to exam timetable.xlsx,RENAME
+remove assignment.docx,DELETE
+how do i manage stress,UNKNOWN
+add a directory called Personal,CREATE_FOLDER
+create folder Personal on desktop,CREATE_FOLDER
+add a directory called Media,CREATE_FOLDER
+change the name of report.pdf to final thesis.docx,RENAME
+copy networking notes to Drafts,COPY
+shift internship report into Media,MOVE
+list files,LIST
+add a file presentation.pptx,CREATE_FILE
+start essay.docx,OPEN
+can you make a copy of final draft,DUPLICATE
+can you open assignment.docx,OPEN
+shift syllabus.pdf into Old Files,MOVE
+create file final draft,CREATE_FILE
+change directory to documents,NAVIGATE
+add a file code review notes,CREATE_FILE
+search for contract.pdf,SEARCH
+copy travel itinerary to Backup,COPY
+relocate video.mp4 to Invoices,MOVE
+look for invoice.pdf,SEARCH
+list every markdown file here,LIST
+create a folder called Assignments,CREATE_FOLDER
+open screenshot.png,OPEN
+show python files in Media,LIST
+rename the file syllabus.pdf to beach photos,RENAME
+duplicate the file thesis draft,DUPLICATE
+rename project proposal to homework.docx,RENAME
+can you help me start a business,UNKNOWN
+make a copy of meeting minutes,DUPLICATE
+what's inside this folder,LIST
+what's a good movie to watch,UNKNOWN
+delete video.mp4,DELETE
+create a file called final draft,CREATE_FILE
+can you go to Backup,NAVIGATE
+please go to desktop,NAVIGATE
+clone assignment.docx,DUPLICATE
+navigate into the Backup directory,NAVIGATE
+list all files in College Work,LIST
+create vacation photos in Shared,CREATE_FILE
+show python files in Personal,LIST
+show pdf files in Media,LIST
+search for the travel itinerary I made yesterday,SEARCH
+clone tax documents,DUPLICATE
+create a folder called Backup,CREATE_FOLDER
+can you list the markdown files,LIST
+look for my grocery list,SEARCH
+remove the file contract.pdf for me,DELETE
+what time is it,UNKNOWN
+show me what's in Old Files,LIST
+move report.pdf to Archive,MOVE
+find assignment.docx,SEARCH
+show me what's in Research,LIST
+add a file research paper,CREATE_FILE
+delete research paper,DELETE
+create folder Work on desktop,CREATE_FOLDER
+how do i improve my memory,UNKNOWN
+please rename assignment.docx to revised notes,RENAME
+launch config.json,OPEN
+can you help me relax,UNKNOWN
+please create internship report,CREATE_FILE
+show all image documents,LIST
+move travel itinerary to Archive,MOVE
+copy the file assignment.docx to Backup,COPY
+duplicate the file invoice.pdf,DUPLICATE
+copy the file invoice.pdf to Invoices,COPY
+copy report.pdf to home,COPY
+look for meeting minutes,SEARCH
+what is the weather today,UNKNOWN
+find song.mp3,SEARCH
+add a directory called College Work,CREATE_FOLDER
+move the file notes.txt to Invoices,MOVE
+can you delete timetable.xlsx,DELETE
+launch data.csv,OPEN
+how do I fix my wifi,UNKNOWN
+can you open meeting minutes,OPEN
+please open config.json,OPEN
+can you find internship report,SEARCH
+change directory to home,NAVIGATE
+remove the file backup.zip for me,DELETE
+trash presentation.pptx,DELETE
+find meeting minutes from last year,SEARCH
+switch to home,NAVIGATE
+copy backup.zip to Shared,COPY
+move contract.pdf to desktop,MOVE

@@ -1,0 +1,24 @@
+# Audio capture & hotkey
+sounddevice>=0.4.6
+pynput>=1.7.6
+numpy>=1.24,<2.0
+
+# Speech-to-text
+openai-whisper>=20231117
+
+# NLP: intent & entity extraction
+spacy>=3.7
+dateparser>=1.2
+
+# Semantic / context-aware retrieval
+sentence-transformers>=2.5
+
+# Filesystem indexing & safety
+watchdog>=3.0
+send2trash>=1.8
+
+# Voice feedback
+pyttsx3>=2.90
+
+# Testing
+pytest>=7.4

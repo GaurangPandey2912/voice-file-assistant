@@ -1,0 +1,12 @@
+{
+  "n_samples": 72,
+  "whisper_model": "base",
+  "corpus_wer": 0.4486,
+  "corpus_cer": 0.1034,
+  "mean_per_sample_wer": 0.4808,
+  "mean_per_sample_cer": 0.1085,
+  "intent_accuracy_from_asr_output": 0.9028,
+  "intent_accuracy_from_clean_text": 0.9167,
+  "intent_accuracy_drop_due_to_asr": 0.0139,
+  "avg_transcription_latency_sec": 0.7968
+}

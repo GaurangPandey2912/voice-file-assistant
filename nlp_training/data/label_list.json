@@ -1,0 +1,14 @@
+[
+  "CREATE_FILE",
+  "CREATE_FOLDER",
+  "DELETE",
+  "DUPLICATE",
+  "RENAME",
+  "MOVE",
+  "COPY",
+  "OPEN",
+  "NAVIGATE",
+  "LIST",
+  "SEARCH",
+  "UNKNOWN"
+]

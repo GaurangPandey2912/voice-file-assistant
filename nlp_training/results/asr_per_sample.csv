@@ -1,0 +1,73 @@
+audio_path,reference_text,hypothesis_text,true_intent,predicted_intent_from_asr,predicted_intent_from_clean_text,wer,cer,intent_correct_from_asr,intent_correct_from_clean_text,transcribe_time_sec
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0000.wav,search for the config.json I made this morning,Search for theconfig.js O and I made this morning.,SEARCH,SEARCH,SEARCH,0.625,0.1739,True,True,2.858
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0001.wav,create a file called timetable.xlsx,Create a file called timetable.xlsx,CREATE_FILE,CREATE_FILE,CREATE_FILE,0.2,0.0286,True,True,0.954
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0002.wav,find notes.txt,Find Notes.Text,SEARCH,SEARCH,SEARCH,1.0,0.2857,True,True,0.792
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0003.wav,start data.csv,Start data.csb,OPEN,OPEN,OPEN,1.0,0.1429,True,True,0.825
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0004.wav,can you make a copy of meeting minutes,Can you make a copy of Meeting Minutes?,DUPLICATE,DUPLICATE,DUPLICATE,0.375,0.1053,True,True,0.877
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0005.wav,copy the file timetable.xlsx to Photos,Copy the file timetable.xlsx to photos.,COPY,COPY,COPY,0.3333,0.0789,True,True,0.871
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0006.wav,create a copy of lecture notes,Create a copy of lecture notes.,DUPLICATE,DUPLICATE,DUPLICATE,0.3333,0.0667,True,True,0.751
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0007.wav,copy lecture notes to Shared,Copy lecture notes to shared.,COPY,COPY,COPY,0.4,0.1071,True,True,0.753
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0008.wav,copy lecture notes to documents,Copy lecture notes to documents.,COPY,COPY,COPY,0.4,0.0645,True,True,0.765
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0009.wav,move vacation photos to home,Move vacation photos to home.,MOVE,MOVE,MOVE,0.4,0.0714,True,True,0.762
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0010.wav,create a copy of timetable.xlsx,Create a copy of timetable.xlsx,DUPLICATE,DUPLICATE,DUPLICATE,0.2,0.0323,True,True,0.815
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0011.wav,rename contract.pdf to exam timetable.xlsx,Rename contract.PDF to examtimetable.xlsx,RENAME,RENAME,RENAME,0.8,0.119,True,True,0.847
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0012.wav,switch to documents,Switch to documents.,NAVIGATE,UNKNOWN,UNKNOWN,0.6667,0.1053,False,False,0.753
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0013.wav,please delete the file resume.docx,Please delete the file resume dot docs.,DELETE,DELETE,DELETE,0.8,0.2353,True,True,0.764
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0014.wav,launch project proposal,Launch project proposal.,OPEN,OPEN,OPEN,0.6667,0.087,True,True,0.698
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0015.wav,create a copy of internship report,Create a copy of internship report.,DUPLICATE,DUPLICATE,DUPLICATE,0.3333,0.0588,True,True,0.681
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0016.wav,make a copy of assignment.docx,Make a copy of assignment dot docs.,DUPLICATE,DUPLICATE,DUPLICATE,0.8,0.2667,True,True,0.771
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0017.wav,open the file budget.xlsx,Open the file budget.xlsx,OPEN,OPEN,OPEN,0.25,0.04,True,True,0.785
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0018.wav,who won the match yesterday,Who won the match yesterday?,UNKNOWN,UNKNOWN,UNKNOWN,0.4,0.0741,True,True,0.766
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0019.wav,copy tax documents to Drafts,Copy text documents to drafts.,COPY,COPY,COPY,0.6,0.1786,True,True,0.806
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0020.wav,please go to documents,Please go to documents.,NAVIGATE,NAVIGATE,NAVIGATE,0.5,0.0909,True,True,0.73
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0021.wav,can you move final draft to documents,Can you move final draft to documents?,MOVE,MOVE,MOVE,0.2857,0.0541,True,True,0.782
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0022.wav,create a folder called Projects,Create a folder called Projects,CREATE_FOLDER,CREATE_FOLDER,CREATE_FOLDER,0.2,0.0323,True,True,0.744
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0023.wav,get rid of song.mp3,Get rid of song.mp3,DELETE,SEARCH,SEARCH,0.25,0.0526,False,False,0.761
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0024.wav,how do I fix my wifi,How do I fix my Wi-Fi?,UNKNOWN,UNKNOWN,UNKNOWN,0.3333,0.25,True,True,0.774
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0025.wav,open the Networking folder,Open the networking folder.,NAVIGATE,OPEN,OPEN,0.75,0.1154,False,False,0.764
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0026.wav,please copy research paper to desktop,Please copy research paper to desktop.,COPY,COPY,COPY,0.3333,0.0541,True,True,0.779
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0027.wav,any tips to learn guitar,Any tips to learn guitar?,UNKNOWN,UNKNOWN,UNKNOWN,0.4,0.0833,True,True,0.716
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0028.wav,copy code review notes to documents,Copy code review notes to documents.,COPY,COPY,COPY,0.3333,0.0571,True,True,0.749
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0029.wav,create file video.mp4,Create file video.mp4,CREATE_FILE,CREATE_FILE,CREATE_FILE,0.3333,0.0476,True,True,0.699
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0030.wav,open meeting minutes,Open meeting minutes.,OPEN,OPEN,OPEN,0.6667,0.1,True,True,0.682
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0031.wav,look for budget.xlsx,Look for budget.xlsx,SEARCH,SEARCH,SEARCH,0.3333,0.05,True,True,0.762
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0032.wav,remove budget.xlsx,Remove budget.xlsx,DELETE,DELETE,DELETE,0.5,0.0556,True,True,0.741
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0033.wav,relocate video.mp4 to Semester 6,Relocate video.mp4 to semester 6.,MOVE,SEARCH,SEARCH,0.6,0.0938,False,False,0.798
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0034.wav,move the file data.csv to College Work,Move the file data.csv to college work.,MOVE,MOVE,MOVE,0.4286,0.1053,True,True,0.784
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0035.wav,rename the file song.mp3 to demo video.mp4,Rename the file song.mp3 to demovideo.mp4,RENAME,RENAME,RENAME,0.4286,0.0476,True,True,0.759
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0036.wav,create folder Media on desktop,Create folder media on desktop.,CREATE_FOLDER,CREATE_FOLDER,CREATE_FOLDER,0.6,0.1,True,True,0.695
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0037.wav,look for my meeting minutes,Look for my meeting minutes.,SEARCH,SEARCH,SEARCH,0.4,0.0741,True,True,0.755
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0038.wav,please create project proposal,Please create project proposal.,CREATE_FILE,CREATE_FILE,CREATE_FILE,0.5,0.0667,True,True,0.721
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0039.wav,please create essay.docx,Please create SA.Docs.,CREATE_FILE,CREATE_FILE,CREATE_FILE,0.6667,0.375,True,True,0.77
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0040.wav,go to the Old Files folder please,Go to the old files folder please.,NAVIGATE,NAVIGATE,NAVIGATE,0.5714,0.1212,True,True,0.776
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0041.wav,add a file report.pdf,at a file report.pdf,CREATE_FILE,UNKNOWN,CREATE_FILE,0.25,0.0952,False,True,0.77
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0042.wav,list everything in this folder,List everything in this folder.,LIST,LIST,LIST,0.4,0.0667,True,True,0.767
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0043.wav,move the file song.mp3 to Assignments,Move the file song.mp3 to assignments.,MOVE,MOVE,MOVE,0.3333,0.0811,True,True,0.784
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0044.wav,how are you,How are you?,UNKNOWN,UNKNOWN,UNKNOWN,0.6667,0.1818,True,True,0.731
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0045.wav,can you create a file called tax documents,Can you create a file called text documents?,CREATE_FILE,CREATE_FILE,CREATE_FILE,0.375,0.0952,True,True,0.676
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0046.wav,show python files in Personal,show Python files in personal.,LIST,LIST,LIST,0.4,0.1034,True,True,0.652
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0047.wav,rename timetable.xlsx to final thesis.docx,Rename timetable.xlsx to finalfaces.docs,RENAME,RENAME,RENAME,0.6,0.1667,True,True,0.862
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0048.wav,remove notes.txt,Remove notes.text,DELETE,DELETE,DELETE,1.0,0.125,True,True,0.712
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0049.wav,new folder Invoices,new folder invoices.,CREATE_FOLDER,CREATE_FOLDER,CREATE_FOLDER,0.3333,0.1053,True,True,0.749
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0050.wav,change the name of meeting minutes to revised notes,Change the name of meeting minutes to revised notes.,RENAME,UNKNOWN,UNKNOWN,0.2222,0.0392,False,False,0.833
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0051.wav,new folder Personal,New folder personal.,CREATE_FOLDER,CREATE_FOLDER,CREATE_FOLDER,0.6667,0.1579,True,True,0.777
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0052.wav,rename the file grocery list to final essay.docx,Rename the file grocery list to FinalSA.docs,RENAME,RENAME,RENAME,0.375,0.1875,True,True,0.838
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0053.wav,can you move data.csv to documents,Can you move data.csv to documents?,MOVE,MOVE,MOVE,0.3333,0.0588,True,True,0.811
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0054.wav,what files are here,What files are here?,LIST,UNKNOWN,UNKNOWN,0.5,0.1053,False,False,0.744
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0055.wav,look for screenshot.png,Look for screenshot.png,SEARCH,SEARCH,SEARCH,0.3333,0.0435,True,True,0.749
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0056.wav,remove screenshot.png,Remove screenshot.png,DELETE,DELETE,DELETE,0.5,0.0476,True,True,0.713
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0057.wav,find screenshot.png,Find screenshot.png,SEARCH,SEARCH,SEARCH,0.5,0.0526,True,True,0.722
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0058.wav,what do you think about photography,What do you think about photography?,UNKNOWN,UNKNOWN,UNKNOWN,0.3333,0.0571,True,True,0.789
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0059.wav,change directory to home,Change directory to home.,NAVIGATE,NAVIGATE,NAVIGATE,0.5,0.0833,True,True,0.741
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0060.wav,create a copy of invoice.pdf,Create a copy of invoice.pdf,DUPLICATE,DUPLICATE,DUPLICATE,0.2,0.0357,True,True,0.795
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0061.wav,can you open final draft,Can you open final draft?,OPEN,OPEN,OPEN,0.4,0.0833,True,True,0.798
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0062.wav,rename the file backup.zip to final essay.docx,Rename the file backup.zip to FinalSA.docs,RENAME,RENAME,RENAME,0.4286,0.1957,True,True,0.895
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0063.wav,create folder Archive on downloads,Create folder archive on downloads.,CREATE_FOLDER,CREATE_FOLDER,CREATE_FOLDER,0.6,0.0882,True,True,0.818
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0064.wav,what is philosophy,What is philosophy?,UNKNOWN,UNKNOWN,UNKNOWN,0.6667,0.1111,True,True,0.762
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0065.wav,can you create a folder named Networking,Can you create a folder named networking?,CREATE_FOLDER,CREATE_FOLDER,CREATE_FOLDER,0.2857,0.075,True,True,0.802
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0066.wav,list every document file here,List every document file here.,LIST,LIST,LIST,0.4,0.069,True,True,0.691
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0067.wav,go up,Go up!,NAVIGATE,NAVIGATE,NAVIGATE,1.0,0.4,True,True,0.632
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0068.wav,can you list the pdf files,Can you list the PDF files?,LIST,LIST,LIST,0.5,0.1923,True,True,0.765
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0069.wav,can you open travel itinerary,Can you open travel itinerary?,OPEN,OPEN,OPEN,0.4,0.069,True,True,0.78
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0070.wav,list all the files in this directory,List all the files in this directory.,LIST,LIST,LIST,0.2857,0.0556,True,True,0.796
+F:\COLLEGE\SEM 7\voice-file-assistant\nlp_training\asr_audio\sample_0071.wav,remove the file resume.docx for me,Remove the file resume dot docs for me.,DELETE,DELETE,DELETE,0.8333,0.2353,True,True,0.784

@@ -1,0 +1,18 @@
+# Dataset generation + TF-IDF baseline (no GPU/internet needed)
+scikit-learn>=1.3
+pandas>=2.0
+joblib>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+
+# Fine-tuning the transformer (needs internet on first run to download
+# distilbert-base-uncased; GPU optional but speeds training up a lot)
+torch>=2.0
+transformers>=4.35
+datasets>=2.14
+accelerate>=0.24
+
+# ASR evaluation (WER/CER + end-to-end intent accuracy under ASR noise)
+jiwer>=3.0
+openai-whisper>=20231117
+pyttsx3>=2.90
