@@ -6,7 +6,7 @@ import time
 from collections import deque
 from pathlib import Path
 from typing import Optional
-
+import re
 import numpy as np
 
 from voice_assistant.audio.recorder import AudioRecorder
@@ -328,16 +328,84 @@ class VoiceFileAssistant:
                 self._remember(dest_path / path.name)
             return success, message
 
+        
         elif intent.intent == IntentType.OPEN:
+    # Detect bulk commands such as "open all files" or "open all PDFs".
+            bulk_open = (
+            re.search(r"\b(?:all|every)\b", text, re.IGNORECASE)
+            and re.search(
+            r"\b(?:files?|pdfs?|documents?|docs?|images?|pictures?|"
+            r"videos?|python files?)\b",
+            text,
+            re.IGNORECASE,
+        )
+    )
+
+            if bulk_open:
+         # Choose the file type from the spoken command.
+                if re.search(r"\bpdfs?\b", text, re.IGNORECASE):
+                    item_type = "pdf"
+                elif re.search(r"\b(?:documents?|docs?)\b", text, re.IGNORECASE):
+                    item_type = "document"
+                elif re.search(r"\b(?:images?|pictures?)\b", text, re.IGNORECASE):
+                    item_type = "image"
+                elif re.search(r"\bvideos?\b", text, re.IGNORECASE):
+                    return False, "Video filtering is not supported yet"
+                elif re.search(r"\bpython files?\b", text, re.IGNORECASE):
+                    item_type = "python"
+                else:
+                    item_type = "file"
+                success, items = list_items(current_dir, item_type)
+
+                if not success:
+                    return False, "Could not list the current directory"
+
+                # Never pass directories to the bulk file-opening operation.
+                items = [p for p in items if p.is_file()]
+
+                if not items:
+                    return True, f"No matching {item_type} items found"
+
+                # Confirm before launching multiple applications/windows.
+                description = f"open all {len(items)} matching {item_type} items"
+                if not self.confirmer.confirm_interpretation(description):
+                    return False, "Cancelled"
+
+                opened = []
+                failed = []
+
+                for path in items:
+                    file_success, _ = open_file(path)
+
+                    if file_success:
+                        opened.append(path)
+                        self._remember(path)
+                    else:
+                        failed.append(path.name)
+
+                if not opened:
+                    return False, f"Could not open any of the {len(items)} matching items"
+
+                message = f"Opened {len(opened)} of {len(items)} matching items"
+                if failed:
+                    message += f". Failed: {', '.join(failed[:5])}"
+
+                return True, message
+
+            # Original single-file behaviour remains unchanged.
             if not intent.filename:
                 return False, "No filename specified"
+
             path = resolve_path(intent.filename, current_dir)
             if path is None:
                 return False, f"Not found: {intent.filename}"
+
             success, message = open_file(path)
             if success:
                 self._remember(path)
+
             return success, message
+
 
         elif intent.intent == IntentType.NAVIGATE:
             dest = intent.destination or ""
